@@ -1,0 +1,15 @@
+.nav-top{
+    background-color: #FF523E;
+    color: white;
+    padding: 18px 55px;
+    border-bottom: 1px solid #fff;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+}
+.nav-top a, .nav-top p{
+    text-decoration: none;
+    color: white;
+    font-size: 8px;
+    font-weight: 800;
+}

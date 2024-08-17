@@ -1,0 +1,30 @@
+.center{
+    background-color: #FF523E;
+    color: white;
+    padding: 28px 55px;
+    border-bottom: 1px solid #fff;
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    z-index: 1000;
+    width: 100%;
+    align-items: center;
+}
+.center a, .center p{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    font-weight: 800;
+}
+.center h2{
+    font-family: "Lilita One", sans-serif;
+}
+.quiz{
+    padding: 15px 35px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.quiz:hover{
+    background-color: white;
+    color: #FF523E;
+}

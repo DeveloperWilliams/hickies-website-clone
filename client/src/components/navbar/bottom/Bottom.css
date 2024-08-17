@@ -1,0 +1,13 @@
+.bottom{
+    background-color: #FF523E;
+    color: white;
+    padding: 28px 55px;
+    border-top: 1px solid #fff;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+    border-bottom: 1px solid #fff;
+    text-align: center;
+}

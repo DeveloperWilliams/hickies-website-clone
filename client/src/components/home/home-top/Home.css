@@ -1,0 +1,38 @@
+.home{
+    height: 110vh;
+    background-image: url("./Rectangle.webp");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 0 30px  120px 120px;
+    gap: 30px;
+    flex-direction: column;
+    align-items: left;
+}
+.home h1{
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 1.2;
+}
+.home-link{
+    display: flex;
+    gap: 20px;
+}
+.home-link a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-weight: 800;
+    padding: 15px 32px;
+    border-radius: 28px;
+}
+.home-link a:first-child{
+    background-color: #26198f;
+    color: #fff;
+}
+.home-link a:last-child{
+    background-color: #fff;
+    color: #000;
+}   
